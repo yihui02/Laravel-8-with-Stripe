@@ -90,6 +90,6 @@ return "Amount of seats is between ".$this->minSeat . " and " .$this->maxSeat . 
   echo $car3->getSeat();
 
 
-  sssss
+
 
 ?>
